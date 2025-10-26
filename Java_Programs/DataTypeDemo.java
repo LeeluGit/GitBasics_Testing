@@ -18,6 +18,7 @@ public class DataTypeDemo {
         int[] numbers = {1, 2, 3, 4, 5};
 
         // Display primitive types
+		System.out.println("Java Data Types are:");
         System.out.println("byte: " + byteValue);
         System.out.println("short: " + shortValue);
         System.out.println("int: " + intValue);
